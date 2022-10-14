@@ -1,0 +1,12 @@
+1. Class adalah cetak biru atau karangan dalam pembuatan program, sedangkan object adalah hasil intance atau penciptaan dari sebuah class.
+2. Setter(mutator) dan getter(Accesor). Setter digunakan untuk memberikan nilai ataupun untuk menampilkan nilai variabel,sedangkan getter digunakan untuk mengambil nilai variabel dengan cara melakukan return.
+3.
+
+1. Nama Class
+2. Atribut
+3. fungsi setter untuk memberikan nilai jenis kompueter dan merk komputer
+4. fungsi getter untuk mengambil nilai jenis komputer
+5. fungsi getter untuk mengambil nilai merk
+6. pembuatan object dari class komputer
+7. melakukan pemberian nilai pada object yang sudah dibuat dengan parameter "LAPTOP" dan "MACBOK"
+8. Menampilkan jenis dan merk di console dengan cara melakukan fungsi getter.
